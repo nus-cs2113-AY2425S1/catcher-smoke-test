@@ -1,0 +1,9 @@
+
+{
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "catcher-smoke-test",
+  "phaseTeamResponse": "catcher-smoke-test-dev-response",
+  "phaseTesterResponse": "catcher-smoke-test",
+  "phaseModeration": "catcher-smoke-test-tutor-moderation"
+}
+    
