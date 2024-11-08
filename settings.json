@@ -1,6 +1,6 @@
 
 {
-  "openPhases" : ["phaseBugReporting"],
+  "openPhases" : [],
   "phaseBugReporting": "catcher-smoke-test",
   "phaseTeamResponse": "catcher-smoke-test-dev-response",
   "phaseTesterResponse": "catcher-smoke-test",
